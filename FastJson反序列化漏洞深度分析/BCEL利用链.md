@@ -77,4 +77,8 @@ Payload：
 
 <img width="1797" height="942" alt="image" src="https://github.com/user-attachments/assets/c038b158-2a83-4b49-97c6-3b5be83d2f56" />
 
+参考连接：
 
+https://y4er.com/posts/fastjson-learn/
+
+https://www.bilibili.com/video/BV1pP411N726/
