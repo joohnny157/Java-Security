@@ -47,7 +47,11 @@ Fastjson的@type机制会自动调用目标类的setter方法，setDataSourceNam
 setAutoCommit(true)——>触发connect()——>connect()内部触发lookup(dataSourceName)——>JNDI远程加载类——RCE。
 
 
+参考连接：
 
+https://y4er.com/posts/fastjson-learn/
+
+https://www.bilibili.com/video/BV1pP411N726/
 
 
 
