@@ -251,6 +251,7 @@ JavaBeanInfo实例构造完成之后，获取到了反序列化器，代码回�
 
 参考连接：
 https://y4er.com/posts/fastjson-learn/
+
 https://www.bilibili.com/video/BV1pP411N726/
 
 
