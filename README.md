@@ -3,7 +3,5 @@
 
 这些笔记是我学习和实践的总结，旨在与社区分享知识。如果你喜欢我的内容，欢迎关注我的微信公众号 **[林可Ringo]**，获取更多技术干货和实时更新！
 
-
-![qrcode_for_gh_1589cf8f56e6_430](https://github.com/user-attachments/assets/735bdcef-8a18-49ae-aa06-2d11dc85ea14)
-
+![qrcode_for_gh_1589cf8f56e6_430 (1)](https://github.com/user-attachments/assets/58b7b761-f9da-454d-8664-d54b8093145b)
 
